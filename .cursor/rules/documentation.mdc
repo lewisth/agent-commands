@@ -1,0 +1,5 @@
+---
+description: Only create a .md file for documenting work if instructed to do
+globs:
+alwaysApply: true
+---

@@ -1,0 +1,5 @@
+---
+description: Avoid putting raw SQL in the source code when there is a ORM present. Do not use Stored Procedures.
+globs:
+alwaysApply: false
+---
