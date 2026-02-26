@@ -1,8 +1,8 @@
 Fix failing tests on @branch:
 
-Ask which test projects to run. Then List failing tests with stack traces.
+Ask which test projects to run. Then list failing tests with stack traces.
 
-You are permitted to run the test project(s), you do not need to ask for permission. 
+You are permitted to run the test project(s); you do not need to ask for permission.
 
 Diagnose root cause per test: prod bug vs invalid test. Treat tests as spec unless contradicted by requirements/public API/types.
 

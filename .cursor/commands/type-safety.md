@@ -1,5 +1,5 @@
-Review the all the code relating to TypScript projects:
+Review all code related to TypeScript projects:
 
-- Is the TypeScript typesafe? 
-- Never, ever, use ANY, and replace any instances that you find.
+- Is the TypeScript type-safe?
+- Never, ever use `any`, and replace any instances that you find.
 - Ensure that the project still builds.

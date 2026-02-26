@@ -1,9 +1,9 @@
-Review the all the frontend code:
+Review all frontend code:
 
-- Are all styling in tailwind specification / files?
-- There should be no in-line styling?
+- Is all styling in Tailwind specification/files?
+- There should be no inline styling.
 - If so, implement the TODOs that are safe and remove the comment.
 - Ensure frontend changes for WCAG 2.2 AA compliance (keyboard navigation, focus management, ARIA roles, color contrast).
-- Ensure frontend changes for suitablitiy for desktop and tablet screen sizes (including iPad Mini and 4K screens)
-- Enusre that dark mode and light mode is supported.
+- Ensure frontend changes for suitability for desktop and tablet screen sizes (including iPad Mini and 4K screens).
+- Ensure that dark mode and light mode are supported.
 - Ensure that the styling and themes are used consistently.

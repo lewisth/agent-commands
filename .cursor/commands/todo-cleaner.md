@@ -1,4 +1,4 @@
-Review the all the code:
+Review all code:
 
 - Are there any TODO comments?
 - If so, are they safe to implement?
